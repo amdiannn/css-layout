@@ -1,0 +1,25 @@
+*{
+    font-family: Tahome;
+    box-sizing: border-box;
+}
+
+h2{
+    background-color: coral;
+    height: 40px;
+    padding: 5px;
+}
+
+.judul1{
+    position: sticky;
+    top: 0px;
+}
+
+.judul2{
+    position: sticky;
+    top: 45px;
+}
+
+.judul3{
+    position: sticky;
+    bottom: 0px;
+}
